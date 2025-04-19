@@ -1,4 +1,4 @@
-import math, pyaudio, soundfile, pygame
+import pyaudio, soundfile
 import numpy as np
 
 SAMPLERATE = 48000
